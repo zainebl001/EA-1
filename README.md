@@ -3,7 +3,7 @@ Overview
 
 This repository documents my participation in the Spokane Cyber Cup Hackathon on 2/7/2026. The goal of this project is to reflect on my experience in this hackathon and the skills I put into practice during this event.
 
-Carrer Goals
+Career Goals
 
 My career goal is to work in cybersecurity, primarily in areas relating to web security, penetration testing, and system analysis. Participating in competitions like this allows me to practice my offensive and defensive security techniques in a competitive and collaborative environment.
 
